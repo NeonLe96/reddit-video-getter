@@ -14,3 +14,4 @@ Prereq pip install:
 - URLLIB3
 - Watchdog & Watchgod
 - Pyinstaller
+- TkInter
