@@ -4,7 +4,7 @@ __license__ = "MIT"
 
 
 def main():
-    print ("Hello World")
+    print ("Hello Worl")
 
 
 if __name__ == "__main__":
